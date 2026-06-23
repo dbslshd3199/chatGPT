@@ -1,0 +1,30 @@
+[
+  {
+    "filename": "07-ad-example.jpg",
+    "source": "image(331).png",
+    "size_kb": 71.8,
+    "dimension": "1188x671",
+    "github_raw_url": "https://raw.githubusercontent.com/dbslshd3199/chatGPT/main/07-ad-example.jpg"
+  },
+  {
+    "filename": "08-package-branding.jpg",
+    "source": "image(332).png",
+    "size_kb": 112.4,
+    "dimension": "1325x695",
+    "github_raw_url": "https://raw.githubusercontent.com/dbslshd3199/chatGPT/main/08-package-branding.jpg"
+  },
+  {
+    "filename": "09-package-product-set.jpg",
+    "source": "image(333).png",
+    "size_kb": 115.7,
+    "dimension": "1323x693",
+    "github_raw_url": "https://raw.githubusercontent.com/dbslshd3199/chatGPT/main/09-package-product-set.jpg"
+  },
+  {
+    "filename": "10-package-automated.jpg",
+    "source": "image(334).png",
+    "size_kb": 121.1,
+    "dimension": "1325x708",
+    "github_raw_url": "https://raw.githubusercontent.com/dbslshd3199/chatGPT/main/10-package-automated.jpg"
+  }
+]
