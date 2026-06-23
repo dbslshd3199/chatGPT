@@ -1,0 +1,82 @@
+[
+  {
+    "order": 1,
+    "filename": "01-news-chatgpt-ad-korea.png",
+    "purpose": "국내 ChatGPT 광고 집행 가능 뉴스 캡처",
+    "alt": "국내 광고주도 ChatGPT 광고 가능 관련 뉴스 캡처",
+    "size_kb": 34.2,
+    "recommended_github_raw_root": "https://raw.githubusercontent.com/dbslshd3199/GPT/main/01-news-chatgpt-ad-korea.png"
+  },
+  {
+    "order": 2,
+    "filename": "02-ai-shopping-funnel.png",
+    "purpose": "AI 쇼핑 여정 역피라미드",
+    "alt": "AI 어시스턴트 기반 쇼핑 여정 역피라미드",
+    "size_kb": 1196.5,
+    "recommended_github_raw_root": "https://raw.githubusercontent.com/dbslshd3199/GPT/main/02-ai-shopping-funnel.png"
+  },
+  {
+    "order": 3,
+    "filename": "03-chatgpt-traffic.jpg",
+    "purpose": "ChatGPT 트래픽/사용 비중 자료",
+    "alt": "ChatGPT 트래픽 비중 자료",
+    "size_kb": 88.0,
+    "recommended_github_raw_root": "https://raw.githubusercontent.com/dbslshd3199/GPT/main/03-chatgpt-traffic.jpg"
+  },
+  {
+    "order": 4,
+    "filename": "04-compressed-funnel.jpg",
+    "purpose": "압축 퍼널 설명 이미지",
+    "alt": "Compressed Funnel 설명 이미지",
+    "size_kb": 91.6,
+    "recommended_github_raw_root": "https://raw.githubusercontent.com/dbslshd3199/GPT/main/04-compressed-funnel.jpg"
+  },
+  {
+    "order": 5,
+    "filename": "05-new-channel.jpg",
+    "purpose": "AI 광고 채널 확장 개요",
+    "alt": "AI 광고 채널 확장 개요",
+    "size_kb": 96.9,
+    "recommended_github_raw_root": "https://raw.githubusercontent.com/dbslshd3199/GPT/main/05-new-channel.jpg"
+  },
+  {
+    "order": 6,
+    "filename": "06-workflow.jpg",
+    "purpose": "OpenAI 광고 작동 방식 다이어그램",
+    "alt": "OpenAI 광고 작동 방식 다이어그램",
+    "size_kb": 141.5,
+    "recommended_github_raw_root": "https://raw.githubusercontent.com/dbslshd3199/GPT/main/06-workflow.jpg"
+  },
+  {
+    "order": 7,
+    "filename": "07-ad-example.jpg",
+    "purpose": "광고 구성 예시",
+    "alt": "ChatGPT 광고 구성 예시",
+    "size_kb": 64.4,
+    "recommended_github_raw_root": "https://raw.githubusercontent.com/dbslshd3199/GPT/main/07-ad-example.jpg"
+  },
+  {
+    "order": 8,
+    "filename": "08-package-branding.jpg",
+    "purpose": "패키지 1 브랜딩형",
+    "alt": "브랜딩형 광고 패키지 예시",
+    "size_kb": 93.0,
+    "recommended_github_raw_root": "https://raw.githubusercontent.com/dbslshd3199/GPT/main/08-package-branding.jpg"
+  },
+  {
+    "order": 9,
+    "filename": "09-package-product-set.jpg",
+    "purpose": "패키지 2 상품세트형",
+    "alt": "상품세트형 광고 패키지 예시",
+    "size_kb": 95.2,
+    "recommended_github_raw_root": "https://raw.githubusercontent.com/dbslshd3199/GPT/main/09-package-product-set.jpg"
+  },
+  {
+    "order": 10,
+    "filename": "10-package-automated.jpg",
+    "purpose": "패키지 3 자동화 피드형",
+    "alt": "자동화 피드형 광고 패키지 예시",
+    "size_kb": 97.4,
+    "recommended_github_raw_root": "https://raw.githubusercontent.com/dbslshd3199/GPT/main/10-package-automated.jpg"
+  }
+]
